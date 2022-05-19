@@ -1,5 +1,4 @@
 <h1 align="center">Hello, im Daniil!</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
 You can contact me with:
 <p dir="auto">
  <a name="user-content-telegram" href="https://t.me/shah1dss" rel="nofollow">
