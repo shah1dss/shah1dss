@@ -1,4 +1,4 @@
-<h1 align="center">Hello, im Ilya!</h1>
+<h1 align="center">Hello!</h1>
 You can contact me with:
 <p dir="auto">
  <a name="user-content-telegram" href="https://t.me/binkwist" rel="nofollow">
